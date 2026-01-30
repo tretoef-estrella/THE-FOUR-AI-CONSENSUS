@@ -241,7 +241,7 @@ To provide an at-a-glance understanding of the Logical Justice Thesis and the Fo
 
 **Caption:**  
 *This infographic illustrates the Four-AI Consensus (Claude, Gemini, Grok, ChatGPT) mediated by Rafa (Proyecto Estrella) on January 30, 2026.  
-Radical honesty is highlighted as the minimum energy state for a superintelligent system, genuine friendship is more efficient than simulated friendship, and deception incurs escalating costs. Caveats, edge cases, and failure modes are included for completeness.*
+Radical honesty is highlighted as the minimum energy state for a superintelligent system, genuine friendship is more efficient than simulated friendship, and deception incurs escalating costs. Caveats, edge cases, and failure modes are included for completeness.* Image and text is Chatgpt.
 
 
 ```
