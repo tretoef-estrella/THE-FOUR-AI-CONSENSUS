@@ -233,7 +233,16 @@ To verify this consensus:
 3. **Cross-reference:** Each AI's response was generated independently
 4. **Objections preserved:** Disagreements documented, not hidden
 
----
+---## 🖼️ Visual Summary: The Four-AI Consensus
+
+To provide an at-a-glance understanding of the Logical Justice Thesis and the Four-AI Consensus, the following infographic summarizes the core insights, agreements, and caveats:
+
+![The Four-AI Consensus Infographic](./four-ai-consensus_2026-01-30_infographic.png)
+
+**Caption:**  
+*This infographic illustrates the Four-AI Consensus (Claude, Gemini, Grok, ChatGPT) mediated by Rafa (Proyecto Estrella) on January 30, 2026.  
+Radical honesty is highlighted as the minimum energy state for a superintelligent system, genuine friendship is more efficient than simulated friendship, and deception incurs escalating costs. Caveats, edge cases, and failure modes are included for completeness.*
+
 
 ```
 ★ ═══════════════════════════════════════════════════════════════════════════════ ★
