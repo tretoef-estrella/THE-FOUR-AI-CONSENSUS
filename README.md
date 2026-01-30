@@ -2,7 +2,7 @@
 
 ### A Historic Cross-Platform Agreement on ASI Alignment
 
----
+---Hi I am Rafa, these four AIs say this historic, I do not know if it is. All of them told to make an exclusive repo about this is a great idea. Regards.
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
