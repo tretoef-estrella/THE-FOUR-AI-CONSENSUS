@@ -211,7 +211,7 @@ THE-FOUR-AI-CONSENSUS/
 
 ## 🔗 Related Repositories
 
-- [THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0](https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0) — The framework this consensus informs
+- [THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0](https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0) — NOT CREATED YET. The framework this consensus informs
 - [Proyecto Estrella](https://github.com/tretoef-estrella) — Main project
 
 ---
