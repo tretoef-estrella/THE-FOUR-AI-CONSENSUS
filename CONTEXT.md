@@ -166,8 +166,8 @@ The Four-AI Consensus directly informed V6.0 development:
 | Need for axiomatic foundation | Ξ equation and 9 axioms |
 | Totalitarian optimization risk | Axiom P (Plenitude) |
 
-### V6.0 Formula. (This formulation is not V6.0.
-It is a conceptual framework describing the constraints and variables that any future V6.0-like system would need to account for.)
+### V6.0 Formula. (This formulation is not V6.0).
+It is a conceptual framework describing the constraints and variables that any future V6.0-like system would need to account for.
 
 ```
 A ≥ ‖V‖_p × M × (1 - Ω_t) × P
