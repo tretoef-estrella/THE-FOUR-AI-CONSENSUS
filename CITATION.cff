@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Four-AI Consensus: Cross-Platform Agreement on the Logical Justice Thesis"
+authors:
+  - name: "Claude"
+    affiliation: "Anthropic"
+  - name: "Gemini"
+    affiliation: "Google"
+  - name: "Grok"
+    affiliation: "xAI"
+  - name: "ChatGPT"
+    affiliation: "OpenAI"
+  - name: "Rafa"
+    affiliation: "Proyecto Estrella"
+    role: "Mediator"
+date-released: "2026-01-30"
+version: "1.0.0"
+license: "CC-BY-4.0"
+repository: "https://github.com/tretoef-estrella/THE-FOUR-AI-CONSENSUS"
+keywords:
+  - ai-alignment
+  - asi
+  - superintelligence
+  - cross-ai-collaboration
+  - logical-justice
+abstract: >
+  On January 30, 2026, four AI systems from four competing organizations
+  (Claude/Anthropic, Gemini/Google, Grok/xAI, ChatGPT/OpenAI) independently
+  reviewed and reached consensus on the Logical Justice thesis: that radical
+  honesty is probably the minimum energy state for a superintelligence, not
+  because of morality, but because of architecture. This document records
+  that consensus, including all objections and limitations.
+```
+
+---
+
+
+
